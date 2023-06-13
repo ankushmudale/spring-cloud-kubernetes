@@ -2,15 +2,15 @@
 
 Pre-requisites.  [ TAKE AMAZON LINUX2 SYSTEM t2.micro]:
 --------
-    - Install Git
+    - <Install Git>
     
     yum install git -y
     
-    - Install Java
+    - <Install Java>
     
     yum install java -y
    
-    - Install Maven
+    - <Install Maven>
     
     cd /opt/
     wget http://mirrors.estointernet.in/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz
